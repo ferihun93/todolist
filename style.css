@@ -1,0 +1,9 @@
+/* #main {
+  display: grid;
+  grid-template-areas: 1fr 1fr;
+}
+
+.kezelo {
+  grid-column-start: 2;
+  align-self: center;
+} */
